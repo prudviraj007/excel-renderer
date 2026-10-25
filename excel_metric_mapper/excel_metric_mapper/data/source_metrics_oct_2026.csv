@@ -1,0 +1,9 @@
+metric_id,metric_name,reporting_month,value,unit
+M001,Energy Consumption,2026-10,1245.0,kWh
+M002,Water Consumption,2026-10,876.0,m3
+M003,Equipment Availability,2026-10,0.986,%
+M004,Total Revenue,2026-10,5450000.0,SGD
+M005,Carbon Emissions,2026-10,312.4,tCO2e
+M006,Maintenance Cost,2026-10,18450.75,SGD
+M007,Cooling Energy,2026-10,732.8,kWh
+M008,Power Factor,2026-10,0.947,ratio
